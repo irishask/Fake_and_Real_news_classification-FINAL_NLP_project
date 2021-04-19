@@ -1,5 +1,7 @@
 The objective of this NLP project was to build a classifier that can predict whether a piece of news is fake or real based on its content. 
+
 For EDA & Text Preprocessing for NLP were used: data cleaning, feature engineering, WordCloud visualizer, handling outliers by using CountVectorizer, regEx, nltk, and spaCy (to receive named entities), 
+
 For prediction were used different Bag Of Words models, as well as Deep Learning NLP models.
 
 The data used for this project was drawn from Kaggle datasets:  https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset.
